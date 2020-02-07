@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	position: relative;
+	float: left;
+	padding-left: 10px;
+}
+body, html {
+	height: 100%;
+	margin: 0;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	float: left;
+}
+ul li {
+	float: left;
+}
+ol{
+	list-style-type: none;
+	
+}
+
+li a {
+	display: block;
+	color: #294f38;
+	text-align: center;
+	padding: 14px 16px;
+	margin: 14px;
+	text-decoration: none;
+	font-size: 22px;
+	width: 100px;
+	background-color: white;
+}
+h1 a{
+	display: block;
+	color: #294f38;	
+	text-align: center;
+	text-decoration: none;
+	font-size: 36px;
+}
+li a:hover {background-color: #AAAAAA;}
+div{position: relative;}
